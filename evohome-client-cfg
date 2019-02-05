@@ -1,0 +1,2 @@
+#path to tempfiles, the tempfiles store the sessionkeys in order to reuse them as kong as they're valid
+tmppath = /home/pi/evohome-client
